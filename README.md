@@ -1,6 +1,6 @@
 # All Restaurants in Appleton (Metro), Wisconsin, US
 
-> Free BeamStation sample export with 52 rows and masked direct-contact fields.
+> Free BeamStation sample export with 50 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `274109` |
 | Location | Appleton, WI |
 | Category | Restaurants |
-| Full dataset size | 524 records |
-| Free sample size | 52 records (9.92%) |
-| Last export | 2026-04-07T12:49:03.761157+00:00 |
+| Full dataset size | 504 records |
+| Free sample size | 50 records (9.92%) |
+| Last export | 2026-04-14T12:42:28.850476+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-appleton-metro-wisconsin-us-sample-274109/releases/download/sample-latest/beamstation_274109_restaurants-us-appletonwi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
