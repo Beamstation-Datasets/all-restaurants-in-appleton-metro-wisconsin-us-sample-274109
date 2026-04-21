@@ -1,12 +1,12 @@
 {
-  "export_job_id": "926f0958-58b1-40eb-b89a-58ff75848e9c",
+  "export_job_id": "9557c82c-2e49-4d3e-a0ab-3c8507ea6ba4",
   "id_short": 274109,
-  "published_at": "2026-04-17T07:45:15Z",
+  "published_at": "2026-04-21T19:14:28Z",
   "repo_name": "all-restaurants-in-appleton-metro-wisconsin-us-sample-274109",
   "sample_asset_name": "beamstation_274109_restaurants-us-appletonwi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/274109/beamstation_274109_restaurants-us-appletonwi_SAMPLE_DIST.csv",
-  "sample_records": 50,
-  "sample_sha256": "9e8ccaa56d2a555ebca9d94538ab57f25a485549b71d90a3d331b75db1c80bae",
-  "sample_size_bytes": 197355,
-  "total_records": 504
+  "sample_records": 41,
+  "sample_sha256": "9eaede6f09f5ea276d01e198f9ee4c8edbe57ade2338baf437548c7a615f6837",
+  "sample_size_bytes": 164630,
+  "total_records": 419
 }
